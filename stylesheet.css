@@ -4,9 +4,10 @@
 
 header {
   background-color: pink;
-  text-align: center;
+  width: 120px;
 }
 
 header h1 {
   color: greenyellow;
+  letter-spacing: 5px;
 }
